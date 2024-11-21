@@ -1,5 +1,6 @@
 ## Antonio Valverde Soto
-Mi nombre de Antonio Valvede Soto, soy alumno de ASIR del instituto IES el Bohío, en Cartagena.
+Mi nombre de Antonio Valvede Soto, soy alumno de Administración de Sistemas Informáticos en Red en el instituto IES el Bohío, en Cartagena, estoy cursando el segundo año del ciclo formativo.
+Soy un apasionado de la informática con ganas de aprender cada día más.
 <!-- 
 **Tonivalverdee/Tonivalverdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
