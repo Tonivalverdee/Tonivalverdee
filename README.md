@@ -55,10 +55,12 @@ Me podría dedicar a varios ámbitos gracias a lo que estoy aprendiendo, tanto e
 <br/>
 
 ## Mis proyectos
-<a href="https://github.com/Tonivalverdee/Curso-Python" target_blank>Curso Python</a>
-<a href="https://github.com/Tonivalverdee/Proyectos-Linux" target_blank>Proyectos Linux</a>
-<a href="https://github.com/Tonivalverdee/SAD" target_blank>Implantación de Aplicaciones Web</a>
-<a href="https://github.com/Tonivalverdee/SAD" target_blank>Seguridad y Alta Disponibilidad</a>
+<ol>
+<li><a href="https://github.com/Tonivalverdee/Curso-Python" target_blank>Curso Python</a></li>
+<li><a href="https://github.com/Tonivalverdee/Proyectos-Linux" target_blank>Proyectos Linux</a></li>
+<li></li><a href="https://github.com/Tonivalverdee/SAD" target_blank>Implantación de Aplicaciones Web</a></li>
+<li><a href="https://github.com/Tonivalverdee/SAD" target_blank>Seguridad y Alta Disponibilidad</a></li>
+</ol>
 
 ## Contáctame
 <div align="center">
