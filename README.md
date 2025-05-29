@@ -1,6 +1,6 @@
 # Antonio Valverde Soto - Técnico en Administración de Sistemas Informáticos en Red
 #### Sobre mí
-Mi nombre de Antonio Valvede Soto, soy alumno de Administración de Sistemas Informáticos en Red en el instituto IES el Bohío, en Cartagena, estoy cursando el segundo año del ciclo formativo.
+Mi nombre de Antonio Valvede Soto, he terminado el Grado Superior de Administración de Sistemas Informáticos en Red, actualmente estoy realizando las práctica en la empresa Futurs, siendo mi puesto Técnido de Campo en el grupo Ribera Salud, estoy presencialmente en el Hospital Ribera Virgen de la Caridad.
 Soy un apasionado de la informática con ganas de aprender cada día más.
 
 ## Mis habilidades
